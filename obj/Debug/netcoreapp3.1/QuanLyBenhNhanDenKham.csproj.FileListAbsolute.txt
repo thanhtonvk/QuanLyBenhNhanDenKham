@@ -1,0 +1,13 @@
+D:\QuanLyBenhNhanDenKham\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.exe
+D:\QuanLyBenhNhanDenKham\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.deps.json
+D:\QuanLyBenhNhanDenKham\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.runtimeconfig.json
+D:\QuanLyBenhNhanDenKham\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.runtimeconfig.dev.json
+D:\QuanLyBenhNhanDenKham\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.dll
+D:\QuanLyBenhNhanDenKham\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.pdb
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.csprojAssemblyReference.cache
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.AssemblyInfoInputs.cache
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.AssemblyInfo.cs
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.csproj.CoreCompileInputs.cache
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.dll
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.pdb
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.genruntimeconfig.cache
